@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 
-import codeMockup from '../../src/assets/mockup.png'
+import codeMockup from '../../src/assets/code-mockup.png'
 
 export function Landing() {
   const navigate = useNavigate()
