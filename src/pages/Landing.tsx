@@ -69,7 +69,8 @@ export function Landing() {
         </div>
       </div>
 
-      <img src={mockup} className="mt-10" alt="Imagem de Fundo" />       
+      <img src="/src/assets/mockup.png" className="mt-10" alt="" />
+    
     </div>
   )
 }
