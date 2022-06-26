@@ -3,6 +3,8 @@ import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 
+import codeMockup from '../../src/assets/mockup.png'
+
 export function Landing() {
   const navigate = useNavigate()
 
@@ -66,8 +68,9 @@ export function Landing() {
           </form>
         </div>
       </div>
-
-      <img src="./src/mockup.png" className="mt-10 bg-mockup" alt="" />
+      <section>
+        <img src={codeMockup} className="mt-10" alt="" />
+      </section>
     
     </div>
   )
