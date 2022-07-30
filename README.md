@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align='center'>
   Online Classes Platform 💻
 </h1>
