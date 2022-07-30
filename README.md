@@ -3,8 +3,8 @@
   Online Classes Platform 💻
 </h1>
 
-<img src="./assets/1.png" alt="image" />
-<img src="./assets/2.png" alt="image" />
+<img src="./src/assets/1.png" alt="image" />
+<img src="./src/assets/2.png" alt="image" />
 
 ### 🚀 Stack
 * Vite
