@@ -30,6 +30,8 @@ Pelo seu terminal navegue até a pasta do projeto e execute:
 
 ```
 
-=======
-# ignite-lab-react
->>>>>>> c5bb33fbe684d497009c3bd788914df4bdb8a2fa
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+Feito com ♥ by Thiago Lourenço.
