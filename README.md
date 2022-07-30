@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align='center'>
   Online Classes Platform 💻
 </h1>
@@ -29,3 +30,6 @@ Pelo seu terminal navegue até a pasta do projeto e execute:
 
 ```
 
+=======
+# ignite-lab-react
+>>>>>>> c5bb33fbe684d497009c3bd788914df4bdb8a2fa
