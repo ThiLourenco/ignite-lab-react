@@ -12,3 +12,33 @@ body {
   @apply bg-gray-900 text-gray-100;
   -webkit-font-smoothing: antialiased;
 }
+
+/* CUSTOM SCROLLBAR ======================================== */
+
+body::-webkit-scrollbar,
+.aside::-webkit-scrollbar {
+  width: 5px;
+}
+
+body::-webkit-scrollbar-track,
+.aside::-webkit-scrollbar-track {
+  @apply bg-gray-900;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #4d4d57;
+  border-radius: 25px;
+}
+
+.aside::-webkit-scrollbar-thumb {
+  border-radius: 25px;
+  background: #e1e1e6;
+}
+
+h1 {
+  @apply text-3xl;
+}
+
+.aside {
+  @apply h-[620px] overflow-auto;
+}
